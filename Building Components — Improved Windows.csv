@@ -1,0 +1,7 @@
+Walls,S,,347.2989956,0.52,1.94,11
+Roof,S,,170.0959861,0.30,3.35,19
+South-Facing Glazings,G,S,13.83233033,1.40,0.71,4.056
+North-Facing  Glazings,G,N,0,1.40,0.71,4.056
+East-Facing  Glazings,G,E,13.83233033,1.40,0.71,4.056
+West-Facing  Glazings,G,W,13.83233033,1.40,0.71,4.056
+Skylights,G,SL,3.553511706,2.84,0.35,2
